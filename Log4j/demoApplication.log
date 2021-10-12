@@ -1,0 +1,7 @@
+[main] DEBUG testCase.TestLogger  - debug msg
+  [main] INFO  testCase.TestLogger  - info msg
+  [main] DEBUG testCase.TestLogger  - debug msg
+  [main] INFO  testCase.TestLogger  - info msg
+  [main] DEBUG testCase.TestLogger  - debug msg
+  [main] INFO  testCase.TestLogger  - info msg
+  
